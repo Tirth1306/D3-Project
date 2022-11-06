@@ -1,0 +1,15 @@
+Country,Year,Data.Health.Birth Rate,Data.Health.Death Rate,Data.Health.Fertility Rate,"Data.Health.Life Expectancy at Birth, Female","Data.Health.Life Expectancy at Birth, Male","Data.Health.Life Expectancy at Birth, Total",Data.Health.Population Growth,Data.Health.Total Population,Data.Infrastructure.Mobile Cellular Subscriptions,Data.Infrastructure.Mobile Cellular Subscriptions per 100 People,geo,World bank region
+Iraq,1980,40.406,9.659,6.658,63.255,58.222,60.6771219512195,3.09962968210453,13258367.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1981,39.957,9.743,6.569,64.044,56.717,60.2911463414634,2.97918288127037,13653358.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1982,39.557,9.782,6.485,64.914,55.39,60.0358536585366,2.8717623898824,14045450.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1983,39.219,9.722,6.407,65.844,54.512,60.0398048780488,2.78000348867427,14435914.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1984,38.945,9.531,6.338,66.804,54.266,60.3820975609756,2.67839639388265,14822565.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1985,38.732,9.202,6.276,67.766,54.713,61.0803170731707,2.56558159805675,15202850.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1986,38.563,8.748,6.22,68.696,55.831,62.1066097560976,2.45707877141457,15576396.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1987,38.417,8.204,6.164,69.558,57.501,63.3824634146342,2.34201159241201,15941197.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1988,38.271,7.629,6.105,70.329,59.456,64.7599024390244,2.26257789800854,16301879.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1989,38.107,7.078,6.039,70.993,61.452,66.1061463414634,2.27598303238541,16672907.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1990,37.918,6.581,5.965,71.54,63.345,67.3425609756098,2.40265839664313,17073500.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1991,37.71,6.162,5.882,71.97,65.005,68.4025609756098,2.60064427328901,17517521.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1992,37.495,5.831,5.792,72.297,66.35,69.2509756097561,2.8105803326852,18009865.0,0.0,0.0,irq,Middle East & North Africa
+Iraq,1993,37.29,5.575,5.699,72.549,67.4,69.9117073170732,2.98270975379324,18547047.0,0.0,0.0,irq,Middle East & North Africa

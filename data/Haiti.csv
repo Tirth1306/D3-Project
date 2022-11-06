@@ -1,0 +1,15 @@
+Country,Year,Data.Health.Birth Rate,Data.Health.Death Rate,Data.Health.Fertility Rate,"Data.Health.Life Expectancy at Birth, Female","Data.Health.Life Expectancy at Birth, Male","Data.Health.Life Expectancy at Birth, Total",Data.Health.Population Growth,Data.Health.Total Population,Data.Infrastructure.Mobile Cellular Subscriptions,Data.Infrastructure.Mobile Cellular Subscriptions per 100 People,geo,World bank region
+Haiti,1980,41.216,16.04,5.97,51.904,48.992,50.4124878048781,2.09947571876849,5569289.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1981,41.823,15.93,6.058,52.204,49.332,50.7329756097561,2.1783917072149,5691941.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1982,42.246,15.792,6.122,52.501,49.684,51.0581463414634,2.25880647454272,5821974.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1983,42.434,15.614,6.154,52.813,50.049,51.3972926829268,2.32414862918254,5958870.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1984,42.36,15.388,6.149,53.153,50.429,51.7577804878049,2.35256033846391,6100718.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1985,42.02,15.112,6.106,53.523,50.82,52.1385365853659,2.33583412070839,6244898.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1986,41.438,14.793,6.028,53.92,51.215,52.534512195122,2.28793131037409,6389424.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1987,40.667,14.445,5.921,54.334,51.605,52.9362195121951,2.23072351388065,6533556.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1988,39.8,14.09,5.799,54.751,51.982,53.3327317073171,2.17903605434438,6677487.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1989,38.916,13.745,5.673,55.16,52.339,53.7150975609756,2.13083503625649,6821300.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1990,38.061,13.419,5.549,55.554,52.676,54.0799024390244,2.09068324299565,6965413.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1991,37.266,13.116,5.43,55.936,52.993,54.4286097560976,2.05616567750727,7110116.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1992,36.544,12.835,5.318,56.309,53.298,54.7667804878049,2.01781166990653,7255042.0,0.0,0.0,hti,Latin America & Caribbean
+Haiti,1993,35.872,12.57,5.21,56.68,53.596,55.1003902439024,1.9764675957235,7399862.0,0.0,0.0,hti,Latin America & Caribbean

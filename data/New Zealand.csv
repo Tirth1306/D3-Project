@@ -1,0 +1,15 @@
+Country,Year,Data.Health.Birth Rate,Data.Health.Death Rate,Data.Health.Fertility Rate,"Data.Health.Life Expectancy at Birth, Female","Data.Health.Life Expectancy at Birth, Male","Data.Health.Life Expectancy at Birth, Total",Data.Health.Population Growth,Data.Health.Total Population,Data.Infrastructure.Mobile Cellular Subscriptions,Data.Infrastructure.Mobile Cellular Subscriptions per 100 People,geo,World bank region
+New Zealand,1980,16.8,8.1,2.12,76.5,69.8,73.0682926829269,-0.39164121838523,3109000.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1981,16.2,8.5,2.03,75.8,70.0,72.8292682926829,0.125363651321035,3112900.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1982,16.2,8.0,2.01,76.9,70.5,73.6219512195122,0.384751508652698,3124900.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1983,15.8,8.0,1.95,76.9,70.7,73.7243902439024,0.993480548336686,3156100.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1984,15.8,8.1,1.92,76.9,70.8,73.7756097560976,1.3594947716689,3199300.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1985,16.0,8.2,1.93,77.7,71.2,74.3707317073171,0.865186524752234,3227100.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1986,15.9,8.4,1.93,76.8,71.0,73.8292682926829,0.617838918191614,3247100.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1987,16.3,8.3,1.96,77.4,71.0,74.1219512195122,-0.0246404042272856,3246300.0,0.0,0.0,nzl,East Asia & Pacific
+New Zealand,1988,16.8,8.4,2.03,77.2,71.3,74.1780487804878,0.861875993248055,3274400.0,2400.0,0.0724873615264872,nzl,East Asia & Pacific
+New Zealand,1989,17.3,8.4,2.1,77.6,71.4,74.4243902439024,0.274482468222468,3283400.0,10000.0,0.300048187738951,nzl,East Asia & Pacific
+New Zealand,1990,17.5,8.2,2.12,78.0,71.8,74.8243902439024,0.480054396222279,3299200.0,28900.0,0.859906886068884,nzl,East Asia & Pacific
+New Zealand,1991,17.5,8.1,2.18,78.4,72.5,75.3780487804878,0.92322272881111,3329800.0,54100.0,1.59212097294189,nzl,East Asia & Pacific
+New Zealand,1992,17.4,8.0,2.16,78.9,73.3,76.0317073170732,0.982479056516435,3495100.0,72300.0,2.09808169169807,nzl,East Asia & Pacific
+New Zealand,1993,17.28,7.85,2.12,79.3,73.1,76.1243902439025,1.04173538422176,3531700.0,100200.0,2.86030330062444,nzl,East Asia & Pacific

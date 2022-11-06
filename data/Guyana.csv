@@ -1,0 +1,15 @@
+Country,Year,Data.Health.Birth Rate,Data.Health.Death Rate,Data.Health.Fertility Rate,"Data.Health.Life Expectancy at Birth, Female","Data.Health.Life Expectancy at Birth, Male","Data.Health.Life Expectancy at Birth, Total",Data.Health.Population Growth,Data.Health.Total Population,Data.Infrastructure.Mobile Cellular Subscriptions,Data.Infrastructure.Mobile Cellular Subscriptions per 100 People,geo,World bank region
+Guyana,1980,31.25,9.308,3.935,64.277,57.032,60.5661463414634,0.67091879458266,774818.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1981,29.53,9.226,3.646,64.423,57.119,60.6819268292683,0.271823179527385,776927.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1982,27.746,9.152,3.36,64.569,57.213,60.8012926829268,-0.162953657397072,775662.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1983,26.084,9.097,3.099,64.718,57.317,60.927243902439,-0.525576130108608,771596.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1984,24.694,9.069,2.881,64.868,57.432,61.0593170731707,-0.791620598134888,765512.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1985,23.649,9.07,2.714,65.02,57.56,61.1990243902439,-0.909662645174887,758580.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1986,22.983,9.1,2.6,65.175,57.697,61.3448048780488,-0.908435036346127,751720.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1987,22.672,9.158,2.534,65.333,57.843,61.4966585365854,-0.880118825232967,745133.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1988,22.596,9.234,2.499,65.493,57.994,61.6520487804878,-0.856390248708554,738779.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1989,22.644,9.316,2.48,65.655,58.147,61.8094390243903,-0.777536196631683,733057.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1990,22.761,9.398,2.471,65.817,58.3,61.9668292682927,-0.639782563142418,728382.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1991,22.888,9.469,2.467,65.978,58.45,62.1221951219512,-0.459467241053062,725043.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1992,22.98,9.522,2.465,66.138,58.596,62.2750243902439,-0.246357583195837,723259.0,0.0,0.0,guy,Latin America & Caribbean
+Guyana,1993,23.026,9.555,2.467,66.296,58.738,62.4248292682927,-0.0347100504291421,723008.0,841.0,0.116319598123396,guy,Latin America & Caribbean
