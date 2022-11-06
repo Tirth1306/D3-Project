@@ -4,4 +4,4 @@ Interactive Graphs(Line Chart, Donut Chart, Bar chart) for different countries w
 Project Hosted : https://fantastic-gumdrop-71dcf5.netlify.app/
 
 Screenshot:
-[!/D3.jpg]
+![UI](D3.jpg)
